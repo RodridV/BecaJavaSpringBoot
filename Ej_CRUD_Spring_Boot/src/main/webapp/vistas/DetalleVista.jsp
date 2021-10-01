@@ -5,7 +5,7 @@
 <html> 					
 	<head>
 		<meta charset="UTF-8">
-		<title>Detalle alumno</title>
+		<title>Detalle alumno</title>							<!--Para comentar en html-->
 	</head>
 	<body>		
 		<input type="number" value="${datos.matricula}"/>
